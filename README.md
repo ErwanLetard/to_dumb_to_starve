@@ -12,5 +12,5 @@ Chaque individu a un jauge de vie, une espérance de vie, une jauge d'aggressivi
  
  Vu que j'ai pas encore étudié TensorFlow j'ai pas d'idée bien précise de ce qui est faisable ou non. Mais je pense que ce que j'ai décrit ici l'est.
 
-je sui sen train de lire ça : https://becominghuman.ai/designing-ai-solving-snake-with-evolution-f3dd6a9da867
+je suis en train de lire ça : https://becominghuman.ai/designing-ai-solving-snake-with-evolution-f3dd6a9da867
 C'est pas mal pour s'inspirer.

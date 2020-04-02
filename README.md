@@ -11,3 +11,6 @@ Chaque individu a un jauge de vie, une espérance de vie, une jauge d'aggressivi
  Ou alors on essaie de faire en sorte qu'il y ait un incentive à ce que les individus se reproduisent et transmettent leur gènes (genre en fin de vie, ils ne pensent plus qu'à baiser ou quelque chose comme ça) 
  
  Vu que j'ai pas encore étudié TensorFlow j'ai pas d'idée bien précise de ce qui est faisable ou non. Mais je pense que ce que j'ai décrit ici l'est.
+
+je sui sen train de lire ça : https://becominghuman.ai/designing-ai-solving-snake-with-evolution-f3dd6a9da867
+C'est pas mal pour s'inspirer.

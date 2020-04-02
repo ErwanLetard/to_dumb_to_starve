@@ -14,3 +14,5 @@ Chaque individu a un jauge de vie, une espérance de vie, une jauge d'aggressivi
 
 je suis en train de lire ça : https://becominghuman.ai/designing-ai-solving-snake-with-evolution-f3dd6a9da867
 C'est pas mal pour s'inspirer.
+
+https://theailearner.com/2018/04/19/snake-game-with-deep-learning-part-2/
